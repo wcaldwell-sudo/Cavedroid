@@ -1,0 +1,6 @@
+{
+  "name": "CAVEDROID 3D: Subterranean Flight",
+  "description": "High-speed 3D isometric & FPS cave flight combat game inspired by retro subterranean tunnel flyers. Navigate perilous cave tunnels, blast rogue defense droids, and survive the depths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

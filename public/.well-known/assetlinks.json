@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.cavedroid3d.subterranean",
+        "sha256_cert_fingerprints": ["5A:CB:A1:5C:86:ED:BC:03:EC:16:10:AE:3C:A5:EC:11:57:A8:61:21:A2:2A:2A:CB:41:A4:99:E2:C0:F0:9A:D3"]
+      }
+    }]
